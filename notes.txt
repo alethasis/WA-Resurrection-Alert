@@ -1,0 +1,3 @@
+Possible better event:
+RESURRECT_REQUEST
+https://wowpedia.fandom.com/wiki/RESURRECT_REQUEST

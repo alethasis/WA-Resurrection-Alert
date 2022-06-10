@@ -1,0 +1,4 @@
+{
+  spellID = "number",
+  name = "string",
+}
